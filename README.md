@@ -1,4 +1,4 @@
-ouTube Downloader
+YouTube Downloader
 
 Este es un programa simple de descarga de videos de YouTube con interfaz gráfica desarrollado en Python usando la biblioteca tkinter. Puedes descargar videos individuales o listas de reproducción completas.
 Descargar una Release desde GitHub
@@ -52,6 +52,10 @@ Uso del Programa
     Puedes verificar el progreso en la barra de progreso.
 
 Enlace a GitHub
+
+Para obtener información adicional, reportar problemas o contribuir al desarrollo, visita el repositorio en GitHub.
+
+¡Disfruta descargando tus videos de YouTube con facilidad! Si tienes alguna pregunta o problema, no dudes en abrir un problema en el repositorio de GitHub. ¡Gracias por usar YouTube Downloader!
 
 Para obtener información adicional, reportar problemas o contribuir al desarrollo, visita el repositorio en GitHub.
 
